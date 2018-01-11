@@ -99,3 +99,14 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.idea/
+bower_compenents/
+db.sqlite3
+
+.env.prod
+*.conf
+*.service
+deploy.yml
+hosts
+run_gunicorn.sh
